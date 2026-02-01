@@ -20,8 +20,9 @@
 ### Lenguajes
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
 </p>
 
 ### Frontend
@@ -29,19 +30,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="50"/>
 </p>
 
 ### Backend y Entorno de Ejecución
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="50"/>
 </p>
 
 ### Bases de Datos
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="50"/>
 </p>
 
 ### Herramientas
@@ -50,23 +50,22 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/netbeans/netbeans-original.svg" width="50"/>
 </p>
 
 ---
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: https://www.linkedin.com/in/tu-linkedin  
-- 🐦 X / Twitter: https://x.com/tu-usuario  
-- 📧 Email: tuemail@email.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/diego-fernandez-municio-79285232b/
+- 📧 Email: diego9cbs@gmail.com  
 
 ---
 
-## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true"/>
-</p>
 
 
 
